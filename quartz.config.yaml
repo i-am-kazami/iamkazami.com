@@ -1,11 +1,11 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: iam_kazami
+  pageTitle: iamkazami.com
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
-    provider: plausible
+    provider: 
   locale: en-US
   baseUrl: iamkazami.com
   ignorePatterns:
